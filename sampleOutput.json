@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "COLLIN BINKLEY",
+            "title": "Biden’s new Title IX rules protect LGBTQ+ students, but transgender sports rule still on hold",
+            "description": "The rights of LGBTQ+ students will be protected by federal law and victims of campus sexual assault will gain new safeguards under rules finalized Friday by the Biden administration.The new provisions are part of a revised Title IX regulation issued by the Ed…",
+            "url": "https://apnews.com/d0fc0ab7515de02b8e4403d0481dc1e7",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/cab6712749164dc799adac0a08d470e4/3000.jpeg",
+            "publishedAt": "2024-04-19T09:01:04Z",
+            "content": "The rights of LGBTQ+ students will be protected by federal law and victims of campus sexual assault will gain new safeguards under rules finalized Friday by the Biden administration.The new provision… [+6137 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michael Nam",
+            "title": "Sports columnist apologizes for ‘oafish’ comments directed at Caitlin Clark. The controversy isn’t over",
+            "description": "A male columnist has apologized for a cringeworthy moment during former University of Iowa superstar and college basketball’s highest scorer Caitlin Clark’s first news conference as an Indiana Fever player.",
+            "url": "https://www.cnn.com/2024/04/18/media/caitlin-clark-gregg-doyel-apology-indianapolis/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24108564255910-20240418153448254.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-18T18:10:18Z",
+            "content": "A male columnist has apologized for a cringeworthy moment during former University of Iowa superstar and college basketballs highest scorer Caitlin Clarks first news conference as an Indiana Fever pl… [+2256 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Sports News | Breaking & Latest Sports News | Reuters",
+            "description": "Find latest sports news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+            "url": "https://www.reuters.com/sports/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=186",
+            "publishedAt": "2024-04-17T21:52:22.8491375Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "John Fanta, Michael Cohen",
+            "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+            "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+            "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2024-02-29T20:59:30Z",
+            "content": "It's almost time, ladies and gentlemen!\r\nThat long-awaited, fun-filled day when you wait to hear your team's name called before breaking out a pen and paper to fill out your NCAA Tournament bracket i… [+17577 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "New Micah Parsons Show ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+            "urlToImage": null,
+            "publishedAt": "2023-11-27T20:37:24.6381564Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": " Mikal Bridges Interview ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+            "urlToImage": null,
+            "publishedAt": "2023-11-27T20:37:24.3882176Z",
+            "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Graphics",
+            "title": "Reuters Graphics - Charts, Maps, Interactive Graphics and Videos",
+            "description": "The latest world news - politics, sports, culture, science and environment - from our graphics journalists in Singapore, Bangalore, London and New York.",
+            "url": "https://www.reuters.com/graphics/",
+            "urlToImage": "https://www.reuters.com/graphics/cdn/img/home.jpg",
+            "publishedAt": "2020-12-21T00:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "nrk",
+                "name": "NRK"
+            },
+            "author": "NRK",
+            "title": "De siste sportsnyhetene fra NRK",
+            "description": "Her får du de siste sportsnyhetene fra NRK.",
+            "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16851438.1.16851438",
+            "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+            "publishedAt": "2019-08-14T09:09:42Z",
+            "content": "19. april2024kl.11:02Styret i Norges Skiforbund godkjente torsdag det fremforhandlede forslaget til ny avtale for utøverne på landslag.\r\nDet bekrefter generalsekretær Arne Baumann i Norges Skiforbund… [+1537 chars]"
+        }
+    ]
+}
